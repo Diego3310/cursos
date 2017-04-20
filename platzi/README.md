@@ -23,7 +23,7 @@
 ### Curso de Ruby on Rails
 - http://fas.li/l9dgT
 ### Curso de NodeJS y Javascript
-- http://fas.li/FeVHE
+- http://fas.li/gKVC8
 ### Curso de Programacion en Go
 - http://fas.li/naOlZ
 ### Curso de Go Avanzado
