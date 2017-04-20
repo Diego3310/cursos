@@ -27,7 +27,7 @@
 ### Curso de Programacion en Go
 - http://fas.li/naOlZ
 ### Curso de Go Avanzado
-- http://fas.li/Y8XUM
+- http://fas.li/UQuqZ
 ### Curso Basico de C#
 - http://fas.li/NcQmS
 ### Curso Profesional de C# y ASP.Net
