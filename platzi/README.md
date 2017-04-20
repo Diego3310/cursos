@@ -1,1 +1,46 @@
 # Enlaces de Platzi
+
+- Curso de Amazon Web Services
+  - http://fas.li/lc5oy 
+- Curso de Azure
+  - http://fas.li/4wCrT
+- Curso de Docker
+  - http://fas.li/HyZBE
+- Curso de Heroku
+  - http://fas.li/6Okbe
+- Introducción a Linux
+  - http://fas.li/S5Pwu
+- Introducción a Terminal y Línea de Comandos
+  - http://fas.li/HEtr3
+- Curso de Rackspace
+  - http://fas.li/eUC0X
+- Curso de Patrones de Diseño de Sofware
+  - http://fas.li/i8SeD
+- Curso de Python y Django 
+  - http://fas.li/NAk6l
+- Curso de Ruby
+  - http://fas.li/x6kHg
+- Curso de Ruby on Rails
+  - http://fas.li/l9dgT
+- Curso de NodeJS y Javascript
+  - http://fas.li/FeVHE
+- Curso de Programacion en Go
+  - http://fas.li/naOlZ
+- Curso de Go Avanzado
+  - http://fas.li/Y8XUM
+- Curso Basico de C#
+  - http://fas.li/NcQmS
+- Curso Profesional de C# y ASP.Net
+  - http://fas.li/LJYbf
+- Curso Profesional de PHP con Laravel
+  - http://fas.li/rpwOc
+- Curso Profesional de Java 
+  - http://fas.li/rA832
+- Curso Básico de Java
+  - http://fas.li/B5bXj
+- Curso Definitivo de Javascript
+  -http://fas.li/3yxmt
+- Curso Profesional de React.js 2015
+  - http://fas.li/uHfiI
+  
+
