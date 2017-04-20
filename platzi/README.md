@@ -17,7 +17,7 @@
 ### Curso de Patrones de Diseño de Sofware
 - http://fas.li/i8SeD
 ### Curso de Python y Django 
-- http://fas.li/NAk6l
+- http://shink.in/8nBtp
 ### Curso de Ruby
 - http://fas.li/x6kHg
 ### Curso de Ruby on Rails
