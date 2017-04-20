@@ -1,13 +1,13 @@
 # Enlaces de Platzi
 
 ### Curso de Amazon Web Services
-http://fas.li/lc5oy 
+- http://fas.li/lc5oy 
 ### Curso de Azure
-http://fas.li/4wCrT
+- http://fas.li/4wCrT
 ### Curso de Docker
-http://fas.li/HyZBE
+- http://fas.li/HyZBE
 ### Curso de Heroku
-http://fas.li/6Okbe
+- http://fas.li/6Okbe
 ### Introducción a Linux
 - http://fas.li/S5Pwu
 ### Introducción a Terminal y Línea de Comandos
