@@ -3,4 +3,4 @@
 Disfrutenlo
 
 
-*** Este es un respaldo del blog https://cosasgratisco.blogspot.mx/ ***
+***Este es un respaldo del blog https://cosasgratisco.blogspot.mx/***
