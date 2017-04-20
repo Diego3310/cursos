@@ -9,7 +9,7 @@
 ### Curso de Heroku
 - http://fas.li/k5GVN
 ### Introducción a Linux
-- http://fas.li/S5Pwu
+- http://shink.in/WN5Gz
 ### Introducción a Terminal y Línea de Comandos
 - http://fas.li/HEtr3
 ### Curso de Rackspace
