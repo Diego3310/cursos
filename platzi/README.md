@@ -29,9 +29,9 @@
 ### Curso de Go Avanzado
 - http://fas.li/UQuqZ
 ### Curso Basico de C#
-- http://fas.li/NcQmS
+- http://fas.li/E24jL
 ### Curso Profesional de C# y ASP.Net
-- http://fas.li/LJYbf
+- http://fas.li/pwFD2
 ### Curso Profesional de PHP con Laravel
 - http://fas.li/rpwOc
 ### Curso Profesional de Java 
