@@ -42,7 +42,7 @@
 - http://fas.li/3yxmt
 ### Curso Profesional de React.js 2015
 - http://fas.li/uHfiI
-## Curso de SQL y MySQL
+### Curso de SQL y MySQL
 - http://fas.li/zKI13 
-## Curso de PostgreSQL
+### Curso de PostgreSQL
 - http://fas.li/6GJuV
