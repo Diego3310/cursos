@@ -41,9 +41,9 @@
 
 
 ---
-## Carrera de Videoujuegos
+## Carrera de Videojuegos
 ### Curso de Creación de Videojuegos
-- [Esperalo]
+- http://fas.li/so7Cd
 ### Curso de Animación y arte de videojuegos
 - [Esperalo]
 ### Curso de marketing y negocios para Videojuegos
