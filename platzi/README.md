@@ -28,7 +28,7 @@
 - [Esperalo]
 ### Curso Profesional de React.js 2015
 - http://fas.li/uHfiI
-### Curso profesional de React con Redux - 2016
+### Curso profesional de React con Redux [2016]
 - http://fas.li/vF2C8
 ### Curso de React Native
 - [Esperalo]
