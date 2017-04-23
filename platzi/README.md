@@ -220,12 +220,11 @@
 ---
 ## Carrera de Bases de Datos
 ### Curso de SQL y MySQL
-- http://fas.li/zKI13 
+- http://shink.in/p1ml4
 ### Curso de PostgreSQL
 - http://fas.li/6GJuV
 ### Curso de MongoSB y Redis
-- http://fas.li/wT5mP 
-
+- http://shink.in/YaRBr 
 
 ---
 ## Carrea de Administración de Servidores y DevOps
