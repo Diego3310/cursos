@@ -224,7 +224,7 @@
 ### Curso de PostgreSQL
 - http://fas.li/6GJuV
 ### Curso de MongoSB y Redis
-- [Esperalo]
+- http://fas.li/wT5mP 
 
 
 ---
