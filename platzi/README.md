@@ -90,7 +90,7 @@
 ---
 ## Carrera de Seguridad Informática
 ### Introducción a Linux
-- http://shink.in/WN5Gz
+- http://fas.li/S5Pwu
 ### Introducción a Terminal y Línea de Comandos
 - http://fas.li/HEtr3
 ### Introducción a la Seguridad Informática
