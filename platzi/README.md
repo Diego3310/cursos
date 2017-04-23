@@ -47,7 +47,7 @@
 ### Curso de Animación y arte de videojuegos
 - [Esperalo]
 ### Curso de marketing y negocios para Videojuegos
-- [Esperalo]
+- http://fas.li/NDTtk 
 ### Curso de Programación de Videojuegos
 - [Esperalo]
 ### Curso de Desarrollo de Videojuegos con Unreal Engine
