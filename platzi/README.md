@@ -152,7 +152,7 @@
 ### Curso de Gestión de Proyectos
 - [Esperalo]
 ### Curso de eCommerce
-- [Esperalo]
+- http://fas.li/tRGgh
 ### Curso de Producción y Monetización de Video
 - [Esperalo]
 ### Curso de Desarrollo de Productos con Metodología Lean
