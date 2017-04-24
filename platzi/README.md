@@ -13,7 +13,7 @@
 ### Fundamentos de JavaScript
 - [Esperalo]
 ### Curso Definitivo de Javascript
-- http://fas.li/3yxmt
+- http://fas.li/OohIE
 ### Curso de Frontend con Bootstap y Foundation
 - [Esperalo]
 ### Curso de Animaciones para la Web
