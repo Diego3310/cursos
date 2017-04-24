@@ -223,9 +223,9 @@
 ### Curso de SQL y MySQL
 - http://shink.in/p1ml4
 ### Curso de PostgreSQL
-- http://fas.li/6GJuV
+- http://fas.li/5mgFp
 ### Curso de MongoSB y Redis
-- http://shink.in/YaRBr 
+- http://fas.li/LTO7G 
 
 ---
 ## Carrea de Administración de Servidores y DevOps
