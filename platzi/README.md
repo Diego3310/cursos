@@ -6,7 +6,7 @@
 - https://platzi.com/cursos/programacion-basica/
 - https://mega.nz/#F!FnoR3DLJ!T0QPLBYb5M8jADgD52WFXg. Este curso lo pidieron para descargar.
 ### Curso Profesional de Git y GitHub
-- [Esperalo]
+- http://short.am/vR9WmY 
 ### Curso de Desarrollo Web Online
 - [Esperalo]
 ### Curso Responsive Design
