@@ -211,7 +211,7 @@
 
 ## Carrera de Bases de Datos
 ### Curso de SQL y MySQL
-- http://shink.in/p1ml4
+- http://shink.in/59sY1
 ### Curso de PostgreSQL
 - http://fas.li/5mgFp
 ### Curso de MongoSB y Redis
