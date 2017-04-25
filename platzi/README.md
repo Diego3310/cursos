@@ -166,29 +166,29 @@
 ### Curso de Python y Django 
 - http://shink.in/g4sn8
 ### Curso de Ruby
-- http://fas.li/x6kHg
+- http://shink.in/PiZnb
 ### Curso de Ruby on Rails
-- http://fas.li/l9dgT
+- http://shink.in/
 ### Curso de NodeJS y Javascript
 - http://shink.in/FVspH
 ### Introducción a PHP
 - [Espéralo]
 ### Curso Profesional de PHP con Laravel
-- http://fas.li/rpwOc
+- http://shink.in/CKBAI
 ### Curso Básico de Java
-- http://fas.li/B5bXj
+- http://shink.in/OtqpS
 ### Curso Profesional de Java EE 
 - [Espéralo]
 ### Curso Profesional de Java - 2015
-- http://fas.li/rA832
+- http://shink.in/XoICl
 ### Curso de Programacion en Go
 - http://shink.in/1Ssm5
 ### Curso de Go Avanzado
 - http://shink.in/DojrX
 ### Curso Basico de C#
-- http://fas.li/E24jL
+- http://shink.in/oNv6p
 ### Curso Profesional de C# y ASP.Net
-- http://fas.li/pwFD2
+- http://adbull.me/xa6H
 ### Curso Esencial de WordPress
 - [Espéralo]
 
