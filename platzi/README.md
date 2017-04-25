@@ -230,19 +230,19 @@
 ---
 ## Carrea de Administración de Servidores y DevOps
 ### Curso de Amazon Web Services
-- http://fas.li/lc5oy 
+- http://shink.in/xKig3
 ### Curso de Azure
-- http://shink.in/vp8yU
+- http://shink.in/7qRv3
 ### Curso de Docker
-- http://fas.li/HyZBE
+- http://shink.in/2vNWn
 ### Curso de Heroku
-- http://fas.li/k5GVN
+- http://shink.in/1vBDm
 ### Introducción a Linux
-- http://shink.in/WN5Gz
+- http://shink.in/qJYZa
 ### Introducción a Terminal y Línea de Comandos
 - http://fas.li/HEtr3
 ### Curso de Rackspace
-- http://fas.li/eUC0X
+- http://shink.in/sp97w
 
 
 
