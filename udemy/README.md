@@ -10,10 +10,10 @@
 - Esperalo
 
 ## AngularJS - Diego Herrera
-- Esperalo
+- http://adbull.me/Ijf2 
 
 ## Curso de Angular 2 -Crea WebApps desde Cero - Victor Robles
-- Esperalo
+- http://adbull.me/vUEH 
 
 ## Curso de NodeJS  Angular 2 - Crea webapps con el Mean Stack 2 - Victor Robles
 - Espéralo
