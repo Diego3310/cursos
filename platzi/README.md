@@ -1,6 +1,5 @@
 # Enlaces de Platzi
 
----
 ## Carrera de Frontend Profesional
 ### Curso de Programación Básica
 - https://platzi.com/cursos/programacion-basica/
@@ -41,7 +40,6 @@
 - [Esperalo]
 
 
----
 ## Carrera de Videojuegos
 ### Curso de Creación de Videojuegos
 - http://fas.li/so7Cd
@@ -55,7 +53,6 @@
 - [Esperalo]
 
 
----
 ## Carrera de Marketing y Estrategia Digital
 ### Introducción al Marketing Digital
 - [Esperalo]
@@ -88,7 +85,6 @@
 ### Curso de Social Influence Marketing
 
 
----
 ## Carrera de Seguridad Informática
 ### Introducción a Linux
 - https://github.com/cosasgratis/cursos/tree/master/platzi#introducción-a-linux-1
@@ -100,7 +96,6 @@
 - [Esperalo]
 
 
----
 ## Carrera de Apple FullStack Developer
 ### Curso Gratis de Programacion Básica
 - https://platzi.com/cursos/programacion-basica/ 
@@ -112,7 +107,6 @@
 - [Esperalo]
 
 
----
 ## Carrera de Productos Digitales y UX
 ### Introducción al Diseño de Interfaces
 - [Esperalo]
@@ -138,7 +132,6 @@
 - [Esperalo]
 
 
----
 ## Carrera de Big Data y Data Science
 ### Curso de Big Data y Ciencia de Datos
 - [Esperalo]
@@ -146,7 +139,6 @@
 - [Esperalo]
 
 
----
 ## Carrera de Negocios Online
 ### Taller de Creación de Startups
 - [Esperalo]
@@ -162,7 +154,6 @@
 - [Esperalo]
 
 
----
 ## Carrera de Backend Profesional
 ### Curso Gratis de Programación Básica
 - https://platzi.com/cursos/programacion-basica/ 
@@ -202,7 +193,6 @@
 - [Espéralo]
 
 
----
 ## Carrea de Fundamentos Básicos
 ### Curso Gratis de Programación Básica
 - https://platzi.com/cursos/programacion-basica/ 
@@ -218,7 +208,7 @@
 - https://platzi.com/cursos/marketing-voz/
 
 
----
+
 ## Carrera de Bases de Datos
 ### Curso de SQL y MySQL
 - http://shink.in/p1ml4
@@ -227,7 +217,8 @@
 ### Curso de MongoSB y Redis
 - http://fas.li/LTO7G 
 
----
+
+
 ## Carrea de Administración de Servidores y DevOps
 ### Curso de Amazon Web Services
 - http://shink.in/xKig3
@@ -246,7 +237,6 @@
 
 
 
----
 ## Carrera de Google FullStack Developer
 ### Curso Gratis de Programación Básica
 - https://platzi.com/cursos/programacion-basica/ 
@@ -264,7 +254,7 @@
 - [Esperalo]
 
 
----
+
 ## Carrera de Producción Audiovisual
 ### Curso de Edición de video con Premiere Pro
 - [Esperalo]
