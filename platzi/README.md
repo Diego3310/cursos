@@ -255,7 +255,7 @@
 ### Curso Básico de Java
 - http://fas.li/B5bXj
 ### Curso Definitivo de Android [2016]
-- http://shink.in/ymsDI
+- http://fas.li/EY80n
 ### Curso de Programacion en Go
 - http://fas.li/naOlZ
 ### Curso de Go Avanzado
