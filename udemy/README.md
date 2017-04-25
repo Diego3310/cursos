@@ -25,7 +25,7 @@
 - Espéralo
 
 ## Desarrollo web con JavaScript, Angular, NodeJS y MongoDB
-- http://shink.in/HPtZO
+- http://1safe.link/pvf1q 
 
 ## Data Science A-Z™: Real-Life Data Science Exercises Included
 - Esperalo
