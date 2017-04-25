@@ -91,9 +91,9 @@
 ---
 ## Carrera de Seguridad Informática
 ### Introducción a Linux
-- http://fas.li/S5Pwu
+- https://github.com/cosasgratis/cursos/tree/master/platzi#introducción-a-linux-1
 ### Introducción a Terminal y Línea de Comandos
-- http://fas.li/HEtr3
+- https://github.com/cosasgratis/cursos/tree/master/platzi#introducción-a-terminal-y-línea-de-comandos-1
 ### Introducción a la Seguridad Informática
 - [Esperalo]
 ### Curso de Pentestings
