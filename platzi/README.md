@@ -160,17 +160,17 @@
 ### Curso Profesional de Git y GitHub
 - [Esperalo]
 ### Curso de Patrones de Diseño de Sofware
-- http://fas.li/i8SeD
+- http://shink.in/ELWXj
 ### Curso de Python
 - [Espéralo]
 ### Curso de Python y Django 
-- http://shink.in/8nBtp
+- http://shink.in/g4sn8
 ### Curso de Ruby
 - http://fas.li/x6kHg
 ### Curso de Ruby on Rails
 - http://fas.li/l9dgT
 ### Curso de NodeJS y Javascript
-- http://fas.li/gKVC8
+- http://shink.in/FVspH
 ### Introducción a PHP
 - [Espéralo]
 ### Curso Profesional de PHP con Laravel
@@ -182,9 +182,9 @@
 ### Curso Profesional de Java - 2015
 - http://fas.li/rA832
 ### Curso de Programacion en Go
-- http://fas.li/naOlZ
+- http://shink.in/1Ssm5
 ### Curso de Go Avanzado
-- http://fas.li/UQuqZ
+- http://shink.in/DojrX
 ### Curso Basico de C#
 - http://fas.li/E24jL
 ### Curso Profesional de C# y ASP.Net
@@ -241,15 +241,15 @@
 ### Curso Gratis de Programación Básica
 - https://platzi.com/cursos/programacion-basica/ 
 ### Curso Profesional de Git y GitHub
-- [Esperalo]
+- https://github.com/cosasgratis/cursos/tree/master/platzi#curso-profesional-de-git-y-github
 ### Curso Básico de Java
-- http://fas.li/B5bXj
+- https://github.com/cosasgratis/cursos/tree/master/platzi#curso-básico-de-java
 ### Curso Definitivo de Android [2016]
 - http://fas.li/EY80n
 ### Curso de Programacion en Go
-- http://fas.li/naOlZ
+- https://github.com/cosasgratis/cursos/tree/master/platzi#curso-de-programacion-en-go
 ### Curso de Go Avanzado
-- http://fas.li/UQuqZ
+- https://github.com/cosasgratis/cursos/tree/master/platzi#curso-de-go-avanzado
 ### Curso de Diseño de Interfaces Móviles
 - [Esperalo]
 
