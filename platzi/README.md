@@ -231,7 +231,7 @@
 ### Introducción a Linux
 - http://shink.in/qJYZa
 ### Introducción a Terminal y Línea de Comandos
-- http://fas.li/HEtr3
+- http://shink.in/VXor9
 ### Curso de Rackspace
 - http://shink.in/sp97w
 
