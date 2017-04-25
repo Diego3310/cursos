@@ -1,7 +1,7 @@
 # Enlaces de Udemy
 
 ## Angular 2 Crash Course with TypeScript
-- http://clkmein.com/qIOJr3 
+- http://shink.in/LiYrO
 
 ## Angular 2: De cero a experto creando aplicaciones - fernando-herrera
 - Esperalo
@@ -10,10 +10,10 @@
 - Esperalo
 
 ## AngularJS - Diego Herrera
-- http://adbull.me/Ijf2 
+- http://shink.in/eqgOR
 
 ## Curso de Angular 2 -Crea WebApps desde Cero - Victor Robles
-- http://adbull.me/vUEH 
+- http://shink.in/qEc7N 
 
 ## Curso de NodeJS  Angular 2 - Crea webapps con el Mean Stack 2 - Victor Robles
 - http://shink.in/Ebilw
