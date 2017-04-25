@@ -11,4 +11,4 @@ https://github.com/cosasgratis/cursos/tree/master/udemy
 
 ---
 
-***Este es un respaldo del blog https://cosasgratisco.blogspot.mx/***
+***Este es un respaldo del blog https://cosas-gratis-co.blogspot.com/***
