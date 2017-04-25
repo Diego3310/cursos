@@ -5,7 +5,7 @@
 - https://platzi.com/cursos/programacion-basica/
 - https://mega.nz/#F!FnoR3DLJ!T0QPLBYb5M8jADgD52WFXg. Este curso lo pidieron para descargar.
 ### Curso Profesional de Git y GitHub
-- http://short.am/vR9WmY 
+- http://shink.in/UR2MA
 ### Curso de Desarrollo Web Online
 - http://short.am/ALZFC3 
 ### Curso Responsive Design
@@ -100,7 +100,7 @@
 ### Curso Gratis de Programacion Básica
 - https://platzi.com/cursos/programacion-basica/ 
 ### Curso Profesional de Git y GitHub
-- [Esperalo]
+- https://github.com/cosasgratis/cursos/blob/master/platzi/README.md#curso-profesional-de-git-y-github
 ### Curso de Programación para iOS con Swift
 - [Esperalo]
 ### Curso de Diseño de Interfaces Móviles
@@ -158,7 +158,7 @@
 ### Curso Gratis de Programación Básica
 - https://platzi.com/cursos/programacion-basica/ 
 ### Curso Profesional de Git y GitHub
-- [Esperalo]
+- https://github.com/cosasgratis/cursos/blob/master/platzi/README.md#curso-profesional-de-git-y-github
 ### Curso de Patrones de Diseño de Sofware
 - http://shink.in/ELWXj
 ### Curso de Python
