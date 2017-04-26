@@ -7,7 +7,7 @@
 - Esperalo
 
 ## Aprender a programar con Java. De cero hasta hacer sistemas
-- http://adbull.me/zaNYY
+- http://adbull.me/TkAaU
 
 ## AngularJS - Diego Herrera
 - http://shink.in/eqgOR
