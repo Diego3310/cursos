@@ -3,7 +3,7 @@
 ## Carrera de Frontend Profesional
 ### Curso de Programación Básica
 - https://platzi.com/cursos/programacion-basica/
-- https://mega.nz/#F!FnoR3DLJ!T0QPLBYb5M8jADgD52WFXg. Este curso lo pidieron para descargar.
+- https://mega.nz/#F!AjYGxKYQ!9BWXOOaQ_O5iIADN701RZA. Este curso lo pidieron para descargar.
 ### Curso Profesional de Git y GitHub
 - http://shink.in/UR2MA
 ### Curso de Desarrollo Web Online
@@ -98,7 +98,7 @@
 
 ## Carrera de Apple FullStack Developer
 ### Curso Gratis de Programacion Básica
-- https://platzi.com/cursos/programacion-basica/ 
+- https://github.com/cosasgratis/cursos/blob/master/platzi/README.md#curso-de-programación-básica
 ### Curso Profesional de Git y GitHub
 - https://github.com/cosasgratis/cursos/blob/master/platzi/README.md#curso-profesional-de-git-y-github
 ### Curso de Programación para iOS con Swift
@@ -156,7 +156,7 @@
 
 ## Carrera de Backend Profesional
 ### Curso Gratis de Programación Básica
-- https://platzi.com/cursos/programacion-basica/ 
+- https://github.com/cosasgratis/cursos/blob/master/platzi/README.md#curso-de-programación-básica 
 ### Curso Profesional de Git y GitHub
 - https://github.com/cosasgratis/cursos/blob/master/platzi/README.md#curso-profesional-de-git-y-github
 ### Curso de Patrones de Diseño de Sofware
@@ -195,7 +195,7 @@
 
 ## Carrea de Fundamentos Básicos
 ### Curso Gratis de Programación Básica
-- https://platzi.com/cursos/programacion-basica/ 
+- https://github.com/cosasgratis/cursos/blob/master/platzi/README.md#curso-de-programación-básica
 ### Fundamentos de Ingeniería de Software
 - [Esperalo]
 ### Comunidad Platzi
@@ -239,7 +239,7 @@
 
 ## Carrera de Google FullStack Developer
 ### Curso Gratis de Programación Básica
-- https://platzi.com/cursos/programacion-basica/ 
+- https://github.com/cosasgratis/cursos/blob/master/platzi/README.md#curso-de-programación-básica
 ### Curso Profesional de Git y GitHub
 - https://github.com/cosasgratis/cursos/tree/master/platzi#curso-profesional-de-git-y-github
 ### Curso Básico de Java
