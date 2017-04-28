@@ -101,7 +101,7 @@
 - https://github.com/cosasgratis/cursos/blob/master/platzi/README.md#curso-de-programación-básica
 ### Curso Profesional de Git y GitHub
 - https://github.com/cosasgratis/cursos/blob/master/platzi/README.md#curso-profesional-de-git-y-github
-### Curso de Programación para iOS con Swift
+### Curso de Programación para iOS con Swift 3 2017
 - [Esperalo]
 ### Curso de Diseño de Interfaces Móviles
 - [Esperalo]
