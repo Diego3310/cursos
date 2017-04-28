@@ -172,9 +172,9 @@
 ### Curso de NodeJS y Javascript
 - http://adbull.me/aYLpKe
 ### Introducción a PHP 2017
-- http://adbull.me/rc3l6lBV
+- http://adbull.me/Cs3VFQ40
 ### Curso Profesional de PHP con Laravel
-- http://adbull.me/iOdoW3
+- http://adbull.me/rc3l6lBV
 ### Curso Profesional de PHP con Laravel 2017 
 - http://adbull.me/b8jau
 ### Curso Básico de Java
