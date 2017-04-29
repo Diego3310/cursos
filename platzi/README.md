@@ -174,9 +174,9 @@
 ### Introducción a PHP 2017
 - http://adbull.me/Cs3VFQ40
 ### Curso Profesional de PHP con Laravel
-- http://adbull.me/rc3l6lBV
+- http://adbull.me/kvFDVy
 ### Curso Profesional de PHP con Laravel 2017 
-- http://adbull.me/b8jau
+- http://adbull.me/rc3l6lBV
 ### Curso Básico de Java
 - http://adbull.me/ibEian
 ### Curso Profesional de Java EE 
