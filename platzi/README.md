@@ -191,8 +191,8 @@
 - http://shink.in/oNv6p
 ### Curso Profesional de C# y ASP.Net
 - http://adbull.me/xa6H
-### Curso Esencial de WordPress
-- [Espéralo]
+### Curso Esencial de WordPress 2016
+- http://adbull.me/Uac3z 
 
 
 ## Carrea de Fundamentos Básicos
