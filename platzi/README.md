@@ -62,8 +62,8 @@
 - https://platzi.com/cursos/marketing-voz/
 ### Curso Profesional de Google AdWords
 - [Esperalo]
-### Curso de Social Media Marketing y Estrategia Digital
-- [Esperalo]
+### Curso de Social Media Marketing y Estrategia Digital 2016
+- http://shink.in/4favL
 ### Curso de SEO: Posicionamiento en buscadores
 - [Esperalo]
 ### Curso de Email Marketing
