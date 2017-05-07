@@ -54,7 +54,9 @@
 
 
 ## Carrera de Marketing y Estrategia Digital
-### Introducción al Marketing Digital
+### Introducción al Marketing Digital 2015
+- http://shink.in/E3SFh
+### Introducción al Marketing Digital 2017
 - [Esperalo]
 ### Curso Gratis de Marketing Voz a Voz
 - https://platzi.com/cursos/marketing-voz/
