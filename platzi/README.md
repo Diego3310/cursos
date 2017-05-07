@@ -161,9 +161,9 @@
 - https://github.com/cosasgratis/cursos/blob/master/platzi/README.md#curso-profesional-de-git-y-github
 ### Curso de Patrones de Diseño de Sofware
 - http://shink.in/ELWXj
-### Curso de Python
+### Curso de Python 2017
 - http://adbull.me/01Fb
-### Curso de Python y Django 
+### Curso de Python y Django 2017
 - http://shink.in/g4sn8
 ### Curso de Ruby
 - http://adbull.me/Ff5X
