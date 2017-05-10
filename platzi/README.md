@@ -64,7 +64,9 @@
 - [Esperalo]
 ### Curso de Social Media Marketing y Estrategia Digital 2016
 - http://shink.in/4favL
-### Curso de SEO: Posicionamiento en buscadores
+### Curso de SEO: Posicionamiento en buscadores 2015
+- http://adbull.me/HodT
+### Curso de SEO: Posicionamiento en buscadores 2017
 - [Esperalo]
 ### Curso de Email Marketing
 - Curso Profesional de Google Analytics
