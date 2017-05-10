@@ -249,7 +249,7 @@
 ### Curso Básico de Java
 - https://github.com/cosasgratis/cursos/tree/master/platzi#curso-básico-de-java
 ### Curso Definitivo de Android [2016]
-- http://fas.li/EY80n
+- http://adbull.me/nbIYiLP0
 ### Curso de Programacion en Go
 - https://github.com/cosasgratis/cursos/tree/master/platzi#curso-de-programacion-en-go
 ### Curso de Go Avanzado
