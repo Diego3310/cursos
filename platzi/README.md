@@ -71,7 +71,7 @@
 ### Curso Profesional de Google Analytics
 - [Esperalo]
 ### Curso de Construcción de Marca
-- [Esperalo]
+- http://adbull.me/iq0YnuN
 ### Curso de Facebook Ads
 - [Esperalo]
 ### Curso de Relaciones Públcias y Prensa
