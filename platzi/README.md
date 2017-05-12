@@ -106,7 +106,7 @@
 ### Curso Profesional de Git y GitHub
 - https://github.com/cosasgratis/cursos/blob/master/platzi/README.md#curso-profesional-de-git-y-github
 ### Curso de Programación para iOS con Swift 3 2017
-- REPARANDO. Vuelve en la noche por favor :D
+- http://shink.in/PypDv
 ### Curso de Diseño de Interfaces Móviles
 - [Esperalo]
 
