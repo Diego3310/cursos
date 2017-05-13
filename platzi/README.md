@@ -3,7 +3,7 @@
 ## Carrera de Frontend Profesional
 ### Curso de Programación Básica
 - https://platzi.com/cursos/programacion-basica/
-- https://mega.nz/#F!AjYGxKYQ!9BWXOOaQ_O5iIADN701RZA. Este curso lo pidieron para descargar.
+- https://mega.nz/#F!syJyzJBD!-7cfQ-_KvTLANlkiwAsXBw Este curso lo pidieron para descargar, anque está gratis en la plataforma de platzi.
 ### Curso Profesional de Git y GitHub
 - http://shink.in/UR2MA
 ### Curso de Desarrollo Web Online
