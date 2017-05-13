@@ -31,7 +31,7 @@
 ### Curso profesional de React con Redux [2016]
 - http://shink.in/L3sIi
 ### Curso de React Native 2017
-- http://adbull.me/0q9t6
+- http://adbull.me/rsIhBIA
 ### Curso de desarrollo móvil con Ionic 2
 - [Esperalo]
 ### Curso básico de Vue.js
@@ -166,7 +166,7 @@
 ### Curso de Patrones de Diseño de Sofware
 - http://shink.in/ELWXj
 ### Curso de Python 2017
-- http://shink.in/I5aBN
+- http://adbull.me/8mG8FLR
 ### Curso de Python y Django 2017
 - http://shink.in/g4sn8
 ### Curso de Ruby
@@ -176,11 +176,11 @@
 ### Curso de NodeJS y Javascript
 - http://adbull.me/aYLpKe
 ### Introducción a PHP 2017
-- http://adbull.me/Cs3VFQ40
+- http://adbull.me/oLST6n
 ### Curso Profesional de PHP con Laravel
 - http://adbull.me/kvFDVy
 ### Curso Profesional de PHP con Laravel 2017 
-- http://adbull.me/rc3l6lBV
+- http://adbull.me/NQ1T
 ### Curso Básico de Java
 - http://adbull.me/ibEian
 ### Curso Profesional de Java EE 
