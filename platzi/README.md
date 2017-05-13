@@ -234,8 +234,8 @@
 - http://shink.in/2vNWn
 ### Curso de Heroku
 - http://shink.in/1vBDm
-### Introducción a Linux
-- http://shink.in/qJYZa
+### Introducción a Linux 2015
+- http://festyy.com/qSaZET
 ### Introducción a Terminal y Línea de Comandos
 - http://shink.in/VXor9
 ### Curso de Rackspace
