@@ -90,8 +90,8 @@
 
 
 ## Carrera de Seguridad Informática
-### Introducción a Linux
-- https://github.com/cosasgratis/cursos/tree/master/platzi#introducción-a-linux-1
+### Introducción a Linux 2015 
+- https://github.com/cosasgratis/cursos/tree/master/platzi#introducción-a-linux-2015
 ### Introducción a Terminal y Línea de Comandos
 - https://github.com/cosasgratis/cursos/tree/master/platzi#introducción-a-terminal-y-línea-de-comandos-1
 ### Introducción a la Seguridad Informática
