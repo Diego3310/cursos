@@ -237,7 +237,7 @@
 ### Introducción a Linux 2015
 - http://festyy.com/qSaZET
 ### Introducción a Terminal y Línea de Comandos
-- http://shink.in/VXor9
+- http://adbull.me/Nfv3RUVv
 ### Curso de Rackspace
 - http://shink.in/sp97w
 
